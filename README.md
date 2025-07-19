@@ -5,8 +5,8 @@
 
 ## 🚀 About Me  
 - 🔭 Currently learning **Data Structures & Algorithms (DSA) in C++**  
-- 🌱 Exploring **Web Development** with **React.js, FastAPI & Firebase**  
-- 💡 Passionate about **Software Development, Cyber Security, and Fintech**  
+- 🌱 Exploring **Web Development** with **HTML , CSS , JavaScript , MySQL , React.js**  
+- 💡 Passionate about **Software Development, Artificial Intelligence, and Fintech**  
 - 🎯 Preparing for **Placements & Future Opportunities**  
 
 ## 🛠️ Tech Stack  
@@ -20,11 +20,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-
+  
 ### **Backend & Database**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)    
   
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamal-sharma-96433a352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
