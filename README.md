@@ -51,5 +51,7 @@
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/yamal-sharma)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yamal-sharma/)  
+📧 **Email:** yamalsharma0729@gmail.com  
+
 📧 **Email:** yamalsharma0729@gmail.com  
