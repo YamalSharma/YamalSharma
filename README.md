@@ -1,29 +1,55 @@
+# 👋 Hi, I'm Yamal Sharma  
 
-# 👋 Hello, I'm Yamal Sharma  
+🎓 **Computer Science Student** | 💻 **AI & Cybersecurity Enthusiast** | 🚀 **Aspiring Fintech Developer**  
 
-🎓 **Computer Science Student** | 💻 **Aspiring Fintech Developer**  
+---
 
 ## 🚀 About Me  
-- 🔭 Currently learning **Data Structures & Algorithms (DSA) in C++**  
-- 🌱 Exploring **Web Development** with **HTML , CSS , JavaScript , MySQL , React.js**  
-- 💡 Passionate about **Software Development, Artificial Intelligence, and Fintech**  
-- 🎯 Preparing for **Placements & Future Opportunities**  
+- 🔭 Exploring **AI, Machine Learning, and Cybersecurity** through projects & internships  
+- 🌱 Currently learning **Data Structures & Algorithms (C++)** and **Full-Stack Development**  
+- 💡 Passionate about **building AI-powered solutions & innovative software**  
+- 🎯 Preparing for **placements & future opportunities**  
 
-## 🛠️ Tech Stack  
+---
 
-### **Programming Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+## 🛠 Tech Stack  
 
-### **Frontend Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-  
-### **Backend & Database**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)    
-  
+**Languages:**  
+`Python` | `C++` | `JavaScript` | `SQL` | `HTML` | `CSS`  
+
+**AI/ML:**  
+`Scikit-learn` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `NLTK` | `Transformers` | `Torch`  
+
+**Frameworks & Tools:**  
+`Flask` | `Tailwind CSS` | `Tkinter` | `Git & GitHub`  
+
+**Cloud & APIs:**  
+`Firebase` | `Hugging Face Hub`  
+
+**Dev Environments:**  
+`VS Code` | `Jupyter Notebook` | `CLI (Terminal)`  
+
+---
+
+## 📂 Featured Projects  
+
+🔒 **Secure Data Hiding in Images using Steganography**  
+*Python-based GUI application for secure image message hiding with passcode-protected decryption.*  
+
+🤖 **AI Student Performance Prediction**  
+*Machine learning model predicting student outcomes using academic & demographic data.*  
+
+💬 **Local CLI Chatbot — SmolLM-360M-Instruct**  
+*Lightweight local chatbot with sliding-window memory, built using Hugging Face models.*  
+
+---
+
+## 🏆 Achievements  
+- 🧑‍🏫 Delivered a **webinar for school students** at Bahra University  
+- 🔐 Active **member of the Cybersecurity Cell (Club)** at Bahra University  
+
+---
+
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamal-sharma-96433a352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yamal-sharma)  
+📧 **Email:** yamalsharma0729@gmail.com  
