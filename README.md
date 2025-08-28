@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 - 🔭 Exploring **AI, Machine Learning, Web Development, and Cybersecurity**  
-- 🌱 Currently learning **Data Structures & Algorithms (C++)** and **Full-Stack Development**  
+- 🌱 Currently Exploring **Data Structures & Algorithms (C++)**  
 - 💡 Passionate about **building AI-powered solutions & innovative software**  
 - 🎯 Preparing for **placements & future opportunities**  
 
