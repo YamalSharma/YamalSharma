@@ -72,5 +72,6 @@
 📧 **Email:** yamalsharma0729@gmail.com  
 
 
-![GitHub Contribution Score](https://github-readme-stats.vercel.app/api?username=yamalsharma0729&show_icons=true&count_private=true&include_all_commits=true)
+![Contributions Badge](https://img.shields.io/badge/Contributions-{{replace_with_number}}-brightgreen)
+
 
