@@ -53,15 +53,6 @@ I'm a B.Tech Computer Science student at Bahra University with a passion for bui
 -  Certified in Data Science Methodology – CognitiveClass.ai (IBM Developer Skills Network)
 
 ---
-
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
 ##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamal-sharma/)
