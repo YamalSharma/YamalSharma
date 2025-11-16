@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yamal Sharma
 
-### 🎓 Computer Science Student | 🤖 AI & Cybersecurity Enthusiast | 💡 Aspiring Developer
+###  Computer Science Student |  AI & Cybersecurity Enthusiast | Aspiring Developer
 
 I'm a B.Tech Computer Science student at Bahra University with a passion for building innovative AI-powered solutions and exploring cybersecurity. I love tackling real-world problems through hands-on projects in Machine Learning, Python development, and secure systems.
 
@@ -8,14 +8,14 @@ I'm a B.Tech Computer Science student at Bahra University with a passion for bui
 
 ## 🔭 About Me
 
-- 🧠 Exploring **AI, Machine Learning, Web Development, and Cybersecurity**
-- 📚 Currently learning **Data Structures & Algorithms (C++)**
-- 💡 Passionate about building **AI-powered solutions & innovative software**
-- 🎯 Preparing for **placements & future opportunities**
+- Exploring **AI, Machine Learning, Web Development, and Cybersecurity**
+- Currently learning **Data Structures & Algorithms (C++)**
+- Passionate about building **AI-powered solutions & innovative software**
+- Preparing for **placements & future opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,15 +46,15 @@ I'm a B.Tech Computer Science student at Bahra University with a passion for bui
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🎤 Instructed a webinar for school students at Bahra University
-- 🛡️ Active member of the Cybersecurity Cell (Club) at Bahra University
-- 📜 Certified in Data Science Methodology – CognitiveClass.ai (IBM Developer Skills Network)
+-  Instructed a webinar for school students at Bahra University
+-  Active member of the Cybersecurity Cell (Club) at Bahra University
+-  Certified in Data Science Methodology – CognitiveClass.ai (IBM Developer Skills Network)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
@@ -62,7 +62,7 @@ I'm a B.Tech Computer Science student at Bahra University with a passion for bui
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamal-sharma/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YamalSharma)
