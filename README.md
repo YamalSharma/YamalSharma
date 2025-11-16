@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yamal Sharma
+#  Hi, I'm Yamal Sharma
 
 ###  Computer Science Student |  AI & Cybersecurity Enthusiast | Aspiring Developer
 
@@ -6,7 +6,7 @@ I'm a B.Tech Computer Science student at Bahra University with a passion for bui
 
 ---
 
-## 🔭 About Me
+##  About Me
 
 - Exploring **AI, Machine Learning, Web Development, and Cybersecurity**
 - Currently learning **Data Structures & Algorithms (C++)**
