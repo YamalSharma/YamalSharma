@@ -2,13 +2,13 @@
 
 ###  Computer Science Student |  AI & Cybersecurity Enthusiast | Aspiring Developer
 
-I'm a B.Tech Computer Science student at Bahra University with a passion for building innovative AI-powered solutions and exploring cybersecurity. I love tackling real-world problems through hands-on projects in Machine Learning, Python development, and secure systems.
+I'm a B.Tech Computer Science student at Bahra University with a passion for building innovative AI-powered solutions and exploring Data Science and Quant. I love tackling real-world problems through hands-on projects in Machine Learning, Python.
 
 ---
 
 ##  About Me
 
-- Exploring **AI, Machine Learning, Web Development, and Cybersecurity**
+- Exploring **AI, Machine Learning, Quant, and Cybersecurity**
 - Currently learning **Data Structures & Algorithms (C++)**
 - Passionate about building **AI-powered solutions & innovative software**
 - Preparing for **placements & future opportunities**
