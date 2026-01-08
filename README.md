@@ -1,6 +1,6 @@
 #  Hi, I'm Yamal Sharma
 
-###  Computer Science Student |  AI & Cybersecurity Enthusiast | Aspiring Developer
+###  Computer Science Student |  AI/ML & Quant Enthusiast 
 
 I'm a B.Tech Computer Science student at Bahra University with a passion for building innovative AI-powered solutions and exploring Data Science and Quant. I love tackling real-world problems through hands-on projects in Machine Learning, Python.
 
