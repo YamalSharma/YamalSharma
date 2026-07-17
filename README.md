@@ -2,13 +2,13 @@
 
 ### AI Quality Engineer | QA Automation Intern | SDET | Python Developer
 
-I'm a B.Tech Computer Science student at Bahra University and a **QA Engineer Intern at AIVOA, Bangalore**. I specialize in building Python automation pipelines, evaluating Large Language Models (LLMs), and simulating adversarial attacks (AI Red Teaming) to secure intelligent systems.
+I'm a B.Tech Computer Science student at Bahra University and a **QA Engineer**. I specialize in building Python automation pipelines, evaluating Large Language Models (LLMs), and simulating adversarial attacks (AI Red Teaming) to secure intelligent systems.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 **Current Role:** QA Engineer Intern at **AIVOA**, executing manual & automated regression, UI/UX, and AI feature validation.
+- 💼 **Current Role:** QA Engineer **, executing manual & automated regression, UI/UX, and AI feature validation.
 - 🔬 **Focus Areas:** LLM Evaluation, AI Red Teaming, Web Automation, and Pen-Testing Simulations.
 - 🛠️ **Core Frameworks:** Actively using **DeepEval**, **RAGAS**, **Selenium**, and **Pytest** to build robust quality assurance pipelines.
 - 🎓 **Education:** Pursuing B.Tech in Computer Science at Bahra University (CGPA: **8.29**).
