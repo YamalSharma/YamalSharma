@@ -1,79 +1,85 @@
 # 👋 Hi, I'm Yamal Sharma
 
-### AI Quality Engineer | QA Automation Intern | SDET | Python Developer
+### AI Systems & Automation Engineer | QA Automation & SDET | GenAI & Python Developer
 
-I'm a B.Tech Computer Science student at Bahra University and a **QA Engineer**. I specialize in building Python automation pipelines, evaluating Large Language Models (LLMs), and simulating adversarial attacks (AI Red Teaming) to secure intelligent systems.
+I am a Computer Science graduate (2022–2026) specializing in **AI Systems, Test Automation, and Intelligent Backend Engineering**. I bridge the gap between software quality assurance, agentic LLM workflows, automated Playwright/Selenium testing pipelines, and security-hardened Python microservices.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 **Current Role:**QA Engineer**, executing manual & automated regression, UI/UX, and AI feature validation.
-- 🔬 **Focus Areas:** LLM Evaluation, AI Red Teaming, Web Automation, and Pen-Testing Simulations.
-- 🛠️ **Core Frameworks:** Actively using **DeepEval**, **RAGAS**, **Selenium**, and **Pytest** to build robust quality assurance pipelines.
-- 🎓 **Education:** Pursuing B.Tech in Computer Science at Bahra University (CGPA: **8.29**).
+- 💼 **Current Role:** **Testing Engineer Intern @ AIVOA** (Bangalore), executing manual functional, regression, and API verification tests for compliance software.
+- 🔬 **Focus Areas:** QA Test Automation, LLM Evaluation & Evals, RAG Pipelines, AI Security Guardrails, and Resilient Python Microservices.
+- 🛠️ **Core Stack:** **Playwright**, **Selenium**, **PyTest**, **FastAPI**, **LangChain**, **Chroma Vector DB**, **Guardrails AI**, and **Postman**.
+- 🎓 **Education:** B.Tech in Computer Science at Bahra University (2022–2026 | CGPA: **8.29 / 10** up to 7th Sem).
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Programming Languages & Databases
+![Python](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_(PostgreSQL/MySQL)-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔬 AI Evaluation & Red Teaming
-![DeepEval](https://img.shields.io/badge/DeepEval-0A0E17?style=for-the-badge&logo=python&logoColor=58a6ff)
-![RAGAS](https://img.shields.io/badge/RAGAS-0D1117?style=for-the-badge&logo=huggingface&logoColor=green)
-![PyRIT](https://img.shields.io/badge/PyRIT-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Garak](https://img.shields.io/badge/Garak-FF0000?style=for-the-badge&logo=gitbook&logoColor=white)
-![Promptfoo](https://img.shields.io/badge/Promptfoo-312E81?style=for-the-badge&logo=yaml&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### ⚙️ QA Automation & Testing
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman_API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-167EBF?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### 🧠 Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 🧠 AI, GenAI & LLM Evals
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Chroma_/_Pinecone_Vector_DB-0052CC?style=for-the-badge&logo=databricks&logoColor=white)
+![Guardrails AI](https://img.shields.io/badge/Guardrails_AI-8B5CF6?style=for-the-badge&logo=shield&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### 🔧 Tools & Environments
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🔧 Backend, Cloud & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 Featured Projects & Proof of Work
 
-### 🛡️ [Sentinel QA — AI-Powered Web Automation & Security Suite](https://github.com/YamalSharma/Sentinal-QA)
-*   Designed an end-to-end testing dashboard integrating **Selenium/Playwright** with Llama-3-driven test generation via the **Groq API**.
-*   Built security testing modules executing simulated attacks for **XSS, SQL Injection, and Auth Bypass**.
-*   Implemented log parsing algorithms that isolate element failures and translate stack traces into clear English diagnostic reports.
+### 🌐 [AI-Assisted Automated Web Testing & Evals Dashboard](https://github.com/YamalSharma/Sentinal-QA) `[LIVE ON RENDER]`
+*   Designed and deployed an end-to-end web testing dashboard on **Render**, integrating **Playwright & Selenium** with automated AI test script generation.
+*   Implemented log parsing algorithms and intelligent fallback routines to automatically isolate UI element failures, reducing debug time by **65%**.
+*   Integrated automated test evaluation pipelines generating real-time HTML execution reports with pass/fail telemetry.
 
-### 📈 [Investment Research Agent — Multi-Agent Stock Analysis](https://github.com/YamalSharma)
-*   Developed a multi-agent Python system orchestrating several agents to gather and analyze real financial data from external APIs.
-*   Built fail-safes and fallback mechanisms for stable data ingestion, exporting structured reports summarizing fundamental analysis and risks.
+### 🛡️ [Enterprise RAG Document Q&A Bot with AI Security Guardrails](https://github.com/YamalSharma)
+*   Engineered a high-performance RAG Q&A backend using **FastAPI, LangChain, and Chroma Vector DB** for semantic search across complex technical documents.
+*   Integrated **Guardrails AI** to sanitize user inputs, preventing prompt injection attacks and sensitive PII data leakage.
+*   Exposed RESTful endpoints with automated Swagger/OpenAPI documentation and maintained **85%+ unit test coverage** with PyTest.
 
-### 🤖 [Local CLI Chatbot — SmolLM-360M-Instruct](https://github.com/YamalSharma)
-*   Created a lightweight, locally running terminal chatbot utilizing Hugging Face’s **SmolLM-360M** model.
-*   Designed a sliding window memory buffer (tracking the last 3 turns) to maintain context efficiently on CPU-only machines.
+### 📈 [Autonomous Multi-Agent Financial Research System](https://github.com/YamalSharma)
+*   Built an end-to-end multi-agent Python system to analyze stock fundamentals using financial data APIs and LLM orchestration.
+*   Implemented resilient logging, error handling, and exponential backoff retry mechanisms to ensure high availability under API rate limits.
+*   Generated structured Markdown & JSON reports summarizing fundamental valuation metrics and automated risk assessments.
 
 ---
 
-## 🏆 Achievements & Certifications
+## 💼 Professional Experience & Internships
 
--   **Professional Certification:** Data Science Methodology (IBM Developer Skills Network via CognitiveClass.ai)
--   **Professional Certification:** Artificial Intelligence Fundamentals (IBM MOOC Skills Network)
--   **Webinar Instructor:** Instructed a technical introduction webinar for visiting school groups at Bahra University.
--   **Core Member:** Active member of the Cybersecurity Cell (Club) at Bahra University.
+- **Testing Engineer Intern — AIVOA (Bangalore)** *(Jan 2026 – Present)*: Executed manual functional, regression, and API verification tests for life-sciences compliance software; logged defects across release cycles.
+- **Artificial Intelligence Intern — Edunet Foundation** *(Apr 2025 – May 2025)*: Hands-on ML model evaluation, foundational algorithms, and ethical AI practices using Python & PyTorch.
+- **Cyber Security Intern — Edunet Foundation** *(Jan 2025 – Feb 2025)*: Vulnerability assessments, network packet analysis with Wireshark & Nmap, and risk management audits.
+
+---
+
+## 🏆 Certifications & Achievements
+
+- **IBM Professional Certification:** Data Science Methodology (CognitiveClass.ai / IBM Developer Skills Network)
+- **IBM Professional Certification:** Artificial Intelligence Fundamentals (CognitiveClass.ai / IBM MOOC)
+- **Webinar Instructor:** Instructed introductory technical and coding workshops for visiting academic groups at Bahra University.
+- **Core Member:** Active contributor to the Cybersecurity Cell (Club) at Bahra University.
 
 ---
 
